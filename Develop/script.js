@@ -1,5 +1,5 @@
-var key = '64f2ee2a8261daa4d9f780f5b365f275';
-var city = "Denver"
+var key = 'bf8d9a19874a90b7a96d30c91fbdbd62';
+var city = "Philadelphia"
 
 //Grabs the current time and date
 var date = moment().format('dddd, MMMM Do YYYY');
